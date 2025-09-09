@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently studying Mechatronics Engineering at Tecnológico de Monterrey.<br>My passion lies in apples and Computer Vision models and their real-world applications.<br>I’m currently a team leader at @Vanttec and @SMALC, where I focus on learning, researching, and sharing knowledge in the field of Computer Vision and AI.<br>At the moment, I'm exploring and researching Flow Matching Diffusion Models.
 
 
